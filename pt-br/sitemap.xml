@@ -304,17 +304,17 @@
                 href="https://example.com/pt-br/film/"
                 />
   </url><url>
-    <loc>https://example.com/pt-br/reels/</loc>
+    <loc>https://example.com/pt-br/reel/</loc>
     <lastmod>2023-04-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/reels/"
+                href="https://example.com/reel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://example.com/pt-br/reels/"
+                href="https://example.com/pt-br/reel/"
                 />
   </url><url>
     <loc>https://example.com/pt-br/archives/</loc>
